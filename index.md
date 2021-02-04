@@ -8,7 +8,7 @@
 + name: Parisa
 + last name : Ghazanfari
 + Date of birth :2000/sep/04
-+ I am IT engineering student
++ I am Software engineering student
 + location : Tehran , I.R.Iran
 
 
@@ -24,7 +24,7 @@
 
 ---
 + Diploma :Saraye Danesh high school
-+ Bachelor of science : IT Engineering
++ Bachelor of science : Software Engineering
 _ payam Noor University of North 
 
 ### language
