@@ -1,28 +1,29 @@
 
-### Anahita Taheri
+### Parisa Ghazanfari
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Parisa
++ last name : Ghazanfari
++ Date of birth :2000/sep/04
++ I am IT engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
++ Passing WordPress courses
 + translating
++ Gymnastics coach
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
++ Diploma :Saraye Danesh high school
 + Bachelor of science : IT Engineering
 _ payam Noor University of North 
 
@@ -36,14 +37,15 @@ _ payam Noor University of North
 
 ---
 + Trade
-+ Studing historical books
++ Studing Novels
++ Playing Piano
 + travel 
-+ playing volleyball
++ Exercising
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working on wordpress's projects and coaching in gym.
 
 
 
