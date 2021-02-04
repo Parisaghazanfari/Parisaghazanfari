@@ -18,6 +18,7 @@
 + Passing WordPress courses
 + translating
 + Gymnastics coach
++ Earn various medals in Taekwondo competitions
 
 
 ### Education
@@ -36,16 +37,17 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
++ Exercising
 + Studing Novels
 + Playing Piano
-+ travel 
-+ Exercising
++ Travel 
++ Trade
 
 ### working Experience
 
 ---
-+ I am working on wordpress's projects and coaching in gym.
++ I am working on wordpress's projects
++ Coaching in gym.
 
 
 
