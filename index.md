@@ -16,7 +16,7 @@
 
 ---
 + Passing WordPress courses
-+ translating
++ Translating
 + Gymnastics coach
 + Earn various medals in Taekwondo competitions
 
